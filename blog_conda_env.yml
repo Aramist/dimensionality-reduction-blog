@@ -1,0 +1,14 @@
+name: blog
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - jupyter
+  - matplotlib
+  - conda-forge::umap-learn
+  - pip
+  - pip:
+    - nbdev
+
