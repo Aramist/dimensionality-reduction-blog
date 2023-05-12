@@ -313,7 +313,7 @@ Video(filename="cloth_images/cloth_uniform_sample.mp4", html_attributes='loop au
 
 
 
-<video src="cloth_images/cloth_uniform_sample.mp4" loop autoplay  width="800"  height="800">
+<video src="blog_contents_files/cloth_uniform_sample.mp4" loop autoplay  width="800"  height="800">
       Your browser does not support the <code>video</code> element.
     </video>
 
@@ -345,7 +345,7 @@ Video(filename="cloth_images/cloth_nonuniform_sample.mp4", html_attributes='loop
 
 
 
-<video src="cloth_images/cloth_nonuniform_sample.mp4" loop autoplay  width="800"  height="800">
+<video src="blog_contents_files/cloth_nonuniform_sample.mp4" loop autoplay  width="800"  height="800">
       Your browser does not support the <code>video</code> element.
     </video>
 
